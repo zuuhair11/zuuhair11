@@ -68,24 +68,7 @@
 
 --------------
 
-<p align="center">
-	<a href="mailto:zouhairsahtout66@gmail.com">
-		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:zouhairsahtout66@gmail.com&color=3d85c6" />
-	</a>
-	<span> * </span>
-    <a href="https://www.linkedin.com/in/zouhair-sahtout/">
-        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zouhair-sahtout/" />
-    </a>
-    <span> * </span>
-    <a href="https://twitter.com/zouhair_sahtout">
-        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/zouhair_sahtout/&color=1DA1F2" />
-    </a>
-    <span> * </span>
-    <a href="https://www.linkedin.com/in/zouhair-sahtout/">
-        <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/zouhair-sahtout/&color=7289da" />
-    </a>
-
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuuhair11)](https://github.com/anuraghazra/github-readme-stats)
 
 ---------------
 | [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=achrafelkhnissi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) |
