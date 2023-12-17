@@ -21,7 +21,7 @@
 ├─▣ Frontend Developer Student at Scrimba Oslo, Norway
 ├─▣ From Rabat Morocco
 ├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
-├─▣ Interested in high-level Programming, CyberSecurity, Linux, Netwroking, Cloud and AI.
+├─▣ Interested in high-level Programming, JavaScript, Object Oriented Programming, Linux.
 │
 └───────────────────────────────▰▰▰
 
@@ -34,16 +34,17 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ +8 PROJECTS ├───────▰▰▰
+┌──┤ +9 PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/zuuhair11/Javascriptmas-2023">javascriptmas_2023</a>
-├─◈ <a href="https://github.com/zuuhair11/quizzical-app">quizzical_app_react</a>
-├─◈ <a href="https://github.com/zuuhair11/GitHub-Finder">github_finder_oop</a>
-├─◈ <a href="https://github.com/zuuhair11/watcher20-05">movie_search_oop</a>
-├─◈ <a href="https://github.com/zuuhair11/feedback-app">feedback_app_react</a>
-├─◈ <a href="https://github.com/zuuhair11/color-picker">color_picker</a>
-├─◈ <a href="https://github.com/zuuhair11/ourmainapp">full-stack_blog_post_laravel</a>
-├─◈ <a href="https://github.com/zuuhair11/vanlife-app">van_site_react</a>
+├─◈ <a href="https://github.com/zuuhair11/Javascriptmas-2023">JavaScriptmas Challenges - JavaScript</a>
+├─◈ <a href="https://github.com/zuuhair11/quizzical-app">Quizzical Game - React</a>
+├─◈ <a href="https://github.com/zuuhair11/GitHub-Finder">Github Finder - JavaScript - Object Oriented</a>
+├─◈ <a href="https://github.com/zuuhair11/watcher20-05">Search Movie - JavaScript - Object Oriented</a>
+├─◈ <a href="https://github.com/zuuhair11/feedback-app">Feedback - JavaScript</a>
+├─◈ <a href="https://github.com/zuuhair11/color-picker">Color Picker - JavaScript</a>
+├─◈ <a href="https://github.com/zuuhair11/ourmainapp">Blog Post - Laravel</a>
+├─◈ <a href="https://github.com/zuuhair11/vanlife-app">Rent Van - React</a>
+├─◈ <a href="https://github.com/zuuhair11/CarRentalPro">Rent Car Site - Laravel</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -68,10 +69,28 @@
 
 --------------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuuhair11)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+	<a href="mailto:zouhairsahtout66@gmail.com">
+		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:zouhairsahtout66@gmail.com&color=3d85c6" />
+	</a>
+	<span> * </span>
+    <a href="https://www.linkedin.com/in/zouhair-sahtout/">
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zouhair-sahtout/" />
+    </a>
+    <span> * </span>
+    <a href="https://twitter.com/zouhair_sahtout">
+        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/zouhair_sahtout/&color=1DA1F2" />
+    </a>
+    <span> * </span>
+    <a href="https://discord.com/users/795716168223817750">
+        <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://discord.com/users/795716168223817750/&color=7289da" />
+    </a>
+
+</p>
 
 ---------------
-| [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=achrafelkhnissi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) |
+
+| [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuuhair11&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/zuuhair11?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zuuhair11&layout=compact&hide_border=true&theme=jolly)](https://github.com/zuuhair11?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
