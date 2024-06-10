@@ -14,7 +14,7 @@
 ├─▣ Software Developer from Rabat, Morocco
 ├─▣ Advanced Python Programming Student at University of Helsinki
 ├─▣ Passionate about solving complex problems and finding efficient solutions
-├─▣ Proficient in Python, JavaScript, HTML, CSS, React, PHP, Laravel
+├─▣ Proficient in Python, JavaScript, HTML, CSS, React, PHP, Laravel, Linux
 ├─▣ Enthusiastic about object-oriented design, functional programming, and game development with Pygame
 │
 └───────────────────────────────▰▰▰
@@ -30,6 +30,8 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
+├─◈ <a href="https://github.com/zuuhair11/Python_Programming_MOOC_2024_II--University-of-Helsinki">Advanced Python | University of Helsinki - Python</a>
+├─◈ <a href="https://github.com/zuuhair11/30-Days-Of-Python">30 Days of Python - Python</a>
 ├─◈ <a href="https://github.com/zuuhair11/Javascriptmas-2023">JavaScriptmas Challenges - JavaScript</a>
 ├─◈ <a href="https://github.com/zuuhair11/quizzical-app">Quizzical Game - React</a>
 ├─◈ <a href="https://github.com/zuuhair11/GitHub-Finder">Github Finder - JavaScript - Object Oriented</a>
