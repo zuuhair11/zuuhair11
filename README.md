@@ -46,6 +46,7 @@
 
 ┌──┤ CERTIFICATES ├───────▰▰▰
 │
+├─◈ <a href="https://certificates.mooc.fi/validate/8gfbeynykvq">Computer Science at the University of Helsinki - Introduction to Programming course (BSCS1001, 5 ECTS)</a>
 ├─◈ <a href="https://scrimba.com/certificate/umaxwbAN/gfrontend">Scrimba - Frontend Development</a>
 │
 └───────────────────────────────▰▰▰
